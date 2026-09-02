@@ -1,7 +1,7 @@
 #NEON-RUSH-Cyberpunk-Endless-Racer
 A cyberpunk endless racing game created as my first hands-on project with vibe coding and AI-assisted development.
 
-I was introduced to vibe coding during a workshop at SRMIST, where I learned how AI-assisted development can be used to turn ideas into working applications. Inspired by the game-building session, I decided to take the concept further and build my own version with additional gameplay mechanics, visual effects, responsive controls, sound effects, scoring and persistent high scores.
+I was introduced to vibe coding during a workshop at SRMIST by Mr.Bhadak Tushar Ramesh, where I learned how AI-assisted development can be used to turn ideas into working applications. Inspired by the game-building session, I decided to take the concept further and build my own version with additional gameplay mechanics, visual effects, responsive controls, sound effects, scoring and persistent high scores.
 
 This project is less about claiming to have written every line manually and more about learning how to think, build, experiment, debug and iterate with AI as a development partner.
 
@@ -96,7 +96,3 @@ AI-assisted software development
 As a beginner developer, I wanted to move beyond simply writing small programs and experience what it feels like to build an interactive product from an idea.
 
 NEON RUSH is my first step into that journey.
-
-More projects coming soon. 🚀
-
-⭐ This project was inspired by a vibe coding workshop at SRMIST and developed further as my own experiment with AI-assisted development.
